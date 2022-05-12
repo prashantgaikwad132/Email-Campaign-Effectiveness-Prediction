@@ -20,13 +20,13 @@ emails.
 The main objective is to create a machine learning model to characterize the mail and track the mail that is ignored; read; acknowledged by the reader. In addition to this, we will be trying to analyze and find all the features that are important
 for an email to not get ignored.
 
-<img src="images/rossman store.jpg">
+<img src="images/email marketing.png">
 
-In short, we'll see Rossmann sales prediction using machine learning algorithms.
+In short, we'll see Email Campaign Effectiveness Prediction using machine learning algorithms.
 
-<img src="images/Sales graph.png">
+<img src="images/email.jpg">
 
-Explored and analyzed the data to discover key factors responsible for sales growth.
+Explored and analyzed the data to discover key factors responsible for email marketing growth.
 
 <img src="images/promo.png">
 
